@@ -1,5 +1,5 @@
 # DataScienceCapstone1
-Movie Recommendation System for Professional Data Science Capstone1 Harvard University
+Movie Recommendation System for Professional Data Science Capstone Harvard University, 1st Capstone Project using R programming
 
 Recommendation systems plays an important role in e-commerce and online streaming services, such as
 Netflix, YouTube, Amazon, etc. Making the right recommendation for the next product/service, music
